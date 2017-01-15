@@ -1,3 +1,0 @@
-linux -- centos 7
-ansible version -- ansible 2.2.0.0
-
